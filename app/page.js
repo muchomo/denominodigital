@@ -39,7 +39,7 @@ const styles = {
     width: '60%',
     height:'200px',
     margin: 'auto',
-    display:'block'
+    display:'block',
     
   },
 };
