@@ -10,7 +10,7 @@ const HomePage = () => {
         <h2>About Our Brands</h2>
         <p>
           We provide digital menus and IT solutions tailored to various retail business types.
-          Whether you're a restaurant, a cannabis dispensary, or a retail store, we create custom
+          Whether you&apos;re a restaurant, a cannabis dispensary, or a retail store, we create custom
           digital solutions to streamline your operations.
         </p>
       </section>
